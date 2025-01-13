@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:FC9D9D,100:ECCDB4&height=200&section=header&text=Haneul&fontColor=FCF5ED&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:ECCDB4,100:FC9D9D&height=200&section=header&text=Haneul&fontColor=FCF5ED&fontSize=90&animation=twinkling)
 
 ## Hi there 👋
 
